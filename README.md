@@ -34,25 +34,25 @@
 <br />
 
 ---
-### Top languages
+
+### ⚡ Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaussen)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<details>
-  <summary>⚡Recent Github Activity</summary>
+### ⚡ Github Stats
+<img align="left" alt="Olaussen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Olaussen&show_icons=true&hide_border=true&theme=dracula"/>
+
+---
+<br />
+
+### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+---
 
-<details>
-  <summary>⚡ Github Stats</summary>
-
-  <img align="left" alt="Olaussen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Olaussen&show_icons=true&hide_border=true&theme=dracula" />
-
-</details>
 
 [ntnu]: https://ntnu.no
 [facebook]: https://facebook.com/hauk.olaussen
