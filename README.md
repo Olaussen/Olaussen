@@ -12,6 +12,7 @@
 [<img align="left" alt="Olaussen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Olaussen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Olaussen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Olaussen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -32,19 +33,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
----
-
-### ⚡ Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaussen)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ⚡ Github Stats
-<img align="left" alt="Olaussen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Olaussen&show_icons=true&hide_border=true&theme=dracula"/>
-
----
 <br />
+
+---
 
 ### ⚡Recent Github Activity
   
@@ -53,8 +44,13 @@
 
 ---
 
+### ⚡ Github Stats
+![Olaussen's github stats](https://github-readme-stats.vercel.app/api?username=Olaussen&count_private=true&theme=dracula)
+
+
 
 [ntnu]: https://ntnu.no
 [facebook]: https://facebook.com/hauk.olaussen
 [instagram]: https://instagram.com/haukenharforlattredet
 [linkedin]: https://linkedin.com/in/hauk-aleksander-olaussen-9166b2169t
+[spotify]: https://open.spotify.com/user/Olaussen99
