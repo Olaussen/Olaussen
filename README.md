@@ -57,5 +57,5 @@
 [ntnu]: https://ntnu.no
 [facebook]: https://facebook.com/hauk.olaussen
 [instagram]: https://instagram.com/haukenharforlattredet
-[linkedin]: https://linkedin.com/in/hauk-aleksander-olaussen-9166b2169t
+[linkedin]: https://linkedin.com/in/hauk-aleksander-olaussen-9166b2169
 [spotify]: https://open.spotify.com/user/Olaussen99
