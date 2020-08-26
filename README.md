@@ -1,6 +1,6 @@
 ### Sup 🅱s! Who am I?
 
-## I'm a Norwegian student, gamer, memer, and garbage programmer!
+## I'm a Norwegian student, gamer, memer, garbage programmer and nature lover🌳🦌!
 
 - 🔭 I’m currently studying Computer Science at [NTNU][ntnu]!
 - 🌱 I’m currently learning everything there is to learn 🤣
