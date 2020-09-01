@@ -40,11 +40,11 @@
 ### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//Brannstroom/Brannstroom/pull/2) in [Brannstroom/Brannstroom](https://github.com//Brannstroom/Brannstroom)
-2. 💪 Opened PR [#1](https://github.com//Brannstroom/Brannstroom/pull/1) in [Brannstroom/Brannstroom](https://github.com//Brannstroom/Brannstroom)
-3. 🎉 Merged PR [#20](https://github.com//Angstboksen/minesweeper-online/pull/20) in [Angstboksen/minesweeper-online](https://github.com//Angstboksen/minesweeper-online)
-4. 🎉 Merged PR [#9](https://github.com//Angstboksen/RythmPlaylist/pull/9) in [Angstboksen/RythmPlaylist](https://github.com//Angstboksen/RythmPlaylist)
-5. ❌ Closed PR [#3](https://github.com//Angstboksen/minesweeper-online-api/pull/3) in [Angstboksen/minesweeper-online-api](https://github.com//Angstboksen/minesweeper-online-api)
+1. ❗️ Opened issue [#1](https://github.com//Brannstroom/brannstroom.github.io/issues/1) in [Brannstroom/brannstroom.github.io](https://github.com//Brannstroom/brannstroom.github.io)
+2. 💪 Opened PR [#2](https://github.com//Brannstroom/Brannstroom/pull/2) in [Brannstroom/Brannstroom](https://github.com//Brannstroom/Brannstroom)
+3. 💪 Opened PR [#1](https://github.com//Brannstroom/Brannstroom/pull/1) in [Brannstroom/Brannstroom](https://github.com//Brannstroom/Brannstroom)
+4. 🎉 Merged PR [#20](https://github.com//Angstboksen/minesweeper-online/pull/20) in [Angstboksen/minesweeper-online](https://github.com//Angstboksen/minesweeper-online)
+5. 🎉 Merged PR [#9](https://github.com//Angstboksen/RythmPlaylist/pull/9) in [Angstboksen/RythmPlaylist](https://github.com//Angstboksen/RythmPlaylist)
 <!--END_SECTION:activity-->
 
 ---
