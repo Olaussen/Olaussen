@@ -42,11 +42,11 @@
 ### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Angstboksen/JuanitaMusic/pull/14) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-2. 🎉 Merged PR [#5](https://github.com/Angstboksen/minesweeper-online-api/pull/5) in [Angstboksen/minesweeper-online-api](https://github.com/Angstboksen/minesweeper-online-api)
-3. 🎉 Merged PR [#8](https://github.com/Angstboksen/minesweeper-online-api/pull/8) in [Angstboksen/minesweeper-online-api](https://github.com/Angstboksen/minesweeper-online-api)
-4. 🎉 Merged PR [#9](https://github.com/Angstboksen/JuanitaMusic/pull/9) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-5. 🎉 Merged PR [#10](https://github.com/Angstboksen/JuanitaMusic/pull/10) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+1. ❗️ Closed issue [#19](https://github.com/Angstboksen/minesweeper-online/issues/19) in [Angstboksen/minesweeper-online](https://github.com/Angstboksen/minesweeper-online)
+2. 🎉 Merged PR [#15](https://github.com/Angstboksen/JuanitaMusic/pull/15) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+3. 🎉 Merged PR [#14](https://github.com/Angstboksen/JuanitaMusic/pull/14) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+4. 🎉 Merged PR [#5](https://github.com/Angstboksen/minesweeper-online-api/pull/5) in [Angstboksen/minesweeper-online-api](https://github.com/Angstboksen/minesweeper-online-api)
+5. 🎉 Merged PR [#8](https://github.com/Angstboksen/minesweeper-online-api/pull/8) in [Angstboksen/minesweeper-online-api](https://github.com/Angstboksen/minesweeper-online-api)
 <!--END_SECTION:activity-->
 
 ---
