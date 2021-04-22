@@ -42,11 +42,11 @@
 ### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/Angstboksen/RythmPlaylist/issues/8) in [Angstboksen/RythmPlaylist](https://github.com/Angstboksen/RythmPlaylist)
-2. 🎉 Merged PR [#25](https://github.com/Angstboksen/minesweeper-online/pull/25) in [Angstboksen/minesweeper-online](https://github.com/Angstboksen/minesweeper-online)
-3. ❗️ Closed issue [#19](https://github.com/Angstboksen/minesweeper-online/issues/19) in [Angstboksen/minesweeper-online](https://github.com/Angstboksen/minesweeper-online)
-4. 🎉 Merged PR [#15](https://github.com/Angstboksen/JuanitaMusic/pull/15) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-5. 🎉 Merged PR [#14](https://github.com/Angstboksen/JuanitaMusic/pull/14) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+1. 🎉 Merged PR [#1](https://github.com/Angstboksen/JuanitaCoin/pull/1) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
+2. 💪 Opened PR [#1](https://github.com/Angstboksen/JuanitaCoin/pull/1) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
+3. ❗️ Closed issue [#8](https://github.com/Angstboksen/RythmPlaylist/issues/8) in [Angstboksen/RythmPlaylist](https://github.com/Angstboksen/RythmPlaylist)
+4. 🎉 Merged PR [#25](https://github.com/Angstboksen/minesweeper-online/pull/25) in [Angstboksen/minesweeper-online](https://github.com/Angstboksen/minesweeper-online)
+5. ❗️ Closed issue [#19](https://github.com/Angstboksen/minesweeper-online/issues/19) in [Angstboksen/minesweeper-online](https://github.com/Angstboksen/minesweeper-online)
 <!--END_SECTION:activity-->
 
 ---
