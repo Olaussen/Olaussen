@@ -42,11 +42,11 @@
 ### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Angstboksen/JuanitaCoin/pull/2) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
-2. 💪 Opened PR [#2](https://github.com/Angstboksen/JuanitaCoin/pull/2) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
-3. 🎉 Merged PR [#1](https://github.com/Angstboksen/JuanitaCoin/pull/1) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
-4. 💪 Opened PR [#1](https://github.com/Angstboksen/JuanitaCoin/pull/1) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
-5. ❗️ Closed issue [#8](https://github.com/Angstboksen/RythmPlaylist/issues/8) in [Angstboksen/RythmPlaylist](https://github.com/Angstboksen/RythmPlaylist)
+1. 🎉 Merged PR [#16](https://github.com/Angstboksen/JuanitaMusic/pull/16) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+2. 🎉 Merged PR [#17](https://github.com/Angstboksen/JuanitaMusic/pull/17) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+3. 💪 Opened PR [#17](https://github.com/Angstboksen/JuanitaMusic/pull/17) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+4. 🎉 Merged PR [#2](https://github.com/Angstboksen/JuanitaCoin/pull/2) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
+5. 💪 Opened PR [#2](https://github.com/Angstboksen/JuanitaCoin/pull/2) in [Angstboksen/JuanitaCoin](https://github.com/Angstboksen/JuanitaCoin)
 <!--END_SECTION:activity-->
 
 ---
