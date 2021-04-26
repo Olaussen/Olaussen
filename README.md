@@ -53,7 +53,7 @@
 
 ### ⚡ Github Stats
 ![Olaussen's github stats](https://github-readme-stats.vercel.app/api?username=Olaussen&count_private=true&theme=dracula)
-[![Olaussen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Olaussen&theme=dracula)](https://github.com/Olaussen/github-readme-streak-stats)
+[![Olaussen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Olaussen&theme=dracula)](https://github.com/Olaussen)
 
 
 
