@@ -42,11 +42,11 @@
 ### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Angstboksen/JuanitaMusic/pull/34) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-2. 🎉 Merged PR [#32](https://github.com/Angstboksen/JuanitaMusic/pull/32) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-3. 🎉 Merged PR [#33](https://github.com/Angstboksen/JuanitaMusic/pull/33) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-4. 🎉 Merged PR [#2](https://github.com/Angstboksen/date-activity-graph/pull/2) in [Angstboksen/date-activity-graph](https://github.com/Angstboksen/date-activity-graph)
-5. 💪 Opened PR [#2](https://github.com/Angstboksen/date-activity-graph/pull/2) in [Angstboksen/date-activity-graph](https://github.com/Angstboksen/date-activity-graph)
+1. 🎉 Merged PR [#35](https://github.com/Angstboksen/JuanitaMusic/pull/35) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+2. 🎉 Merged PR [#34](https://github.com/Angstboksen/JuanitaMusic/pull/34) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+3. 🎉 Merged PR [#32](https://github.com/Angstboksen/JuanitaMusic/pull/32) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+4. 🎉 Merged PR [#33](https://github.com/Angstboksen/JuanitaMusic/pull/33) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+5. 🎉 Merged PR [#2](https://github.com/Angstboksen/date-activity-graph/pull/2) in [Angstboksen/date-activity-graph](https://github.com/Angstboksen/date-activity-graph)
 <!--END_SECTION:activity-->
 
 ---
