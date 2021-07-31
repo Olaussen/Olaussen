@@ -2,7 +2,8 @@
 
 ## I'm a Norwegian student, gamer, memer, garbage programmer and nature lover🌳🦌!
 
-- 🔭 B.Sc. in Informatics from [NTNU][ntnu]!
+- 📚 Studying M.Sc in Informatics - Artificial Intelligence at [NTNU][ntnu]!
+- 🔭 Done with B.Sc. in Informatics from [NTNU][ntnu]!
 - 🌱 I’m currently learning everything there is to learn 🤣
 - 🥅 2020 Goals: Maybe finish a project before starting on a new one for a change 😁
 - 🎯 2021 Goals: Continue the ways of 2020, where I actually finished some projects 😁
