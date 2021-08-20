@@ -44,11 +44,11 @@
 ### ⚡Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/Angstboksen/JuanitaMusic/pull/113) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-2. 🎉 Merged PR [#112](https://github.com/Angstboksen/JuanitaMusic/pull/112) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-3. 🎉 Merged PR [#111](https://github.com/Angstboksen/JuanitaMusic/pull/111) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-4. 🎉 Merged PR [#110](https://github.com/Angstboksen/JuanitaMusic/pull/110) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
-5. 🎉 Merged PR [#109](https://github.com/Angstboksen/JuanitaMusic/pull/109) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+1. 🎉 Merged PR [#114](https://github.com/Angstboksen/JuanitaMusic/pull/114) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+2. 🎉 Merged PR [#113](https://github.com/Angstboksen/JuanitaMusic/pull/113) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+3. 🎉 Merged PR [#112](https://github.com/Angstboksen/JuanitaMusic/pull/112) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+4. 🎉 Merged PR [#111](https://github.com/Angstboksen/JuanitaMusic/pull/111) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
+5. 🎉 Merged PR [#110](https://github.com/Angstboksen/JuanitaMusic/pull/110) in [Angstboksen/JuanitaMusic](https://github.com/Angstboksen/JuanitaMusic)
 <!--END_SECTION:activity-->
 
 ---
