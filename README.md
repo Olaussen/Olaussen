@@ -6,7 +6,7 @@
 - 🔭 Done with B.Sc. in Informatics from [NTNU][ntnu]!
 - 😎 Founder of the group [Angstboksen][angstboksen]!
 - 🌱 I’m currently learning everything there is to learn 🤣
-- 🥅 2020 Goals: Maybe finish a project before starting on a new one for a change 😁
+- 🥅 2020 Goals: Maybe finish a project before starting a new one for a change 😁
 - 🎯 2021 Goals: Continue the ways of 2020, where I actually finished some projects 😁
 - ⚡ Fun facts: I love hunting, nature and I play the guitar
 
