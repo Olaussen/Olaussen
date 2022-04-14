@@ -7,7 +7,8 @@
 - 😎 Founder of the group [Angstboksen][angstboksen]!
 - 🌱 I’m currently learning everything there is to learn 🤣
 - 🥅 2020 Goals: Maybe finish a project before starting a new one for a change 😁
-- 🎯 2021 Goals: Continue the ways of 2020, where I actually finished some projects 😁
+- 🎯 2021 Goals: Continue the ways of 2020, where I actually finished some projects 😁 
+- 😨 2022 Goals: Is it 2022 already?...
 - ⚡ Fun facts: I love hunting, nature and I play the guitar
 
 ### Connect with me:
