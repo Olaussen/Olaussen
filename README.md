@@ -2,14 +2,11 @@
 
 ## I'm a Norwegian student, gamer, memer, garbage programmer and nature lover🌳🦌!
 
+- 💻 Working part time as a Fullstack Developer at [Aboveit AS][aboveit]!
 - 📚 Studying M.Sc in Informatics - Artificial Intelligence at [NTNU][ntnu]!
 - 🔭 Done with B.Sc. in Informatics from [NTNU][ntnu]!
 - 😎 Founder of the group [Angstboksen][angstboksen]!
-- 🌱 I’m currently learning everything there is to learn 🤣
-- 🥅 2020 Goals: Maybe finish a project before starting a new one for a change 😁
-- 🎯 2021 Goals: Continue the ways of 2020, where I actually finished some projects 😁 
-- 😨 2022 Goals: Is it 2022 already?...
-- ⚡ Fun facts: I love hunting, nature and I play the guitar
+- ⚡ Fun facts: I can basically quote the whole LOTR trilogy :)
 
 ### Connect with me:
 
@@ -65,3 +62,4 @@
 [instagram]: https://instagram.com/haukenharforlattredet
 [linkedin]: https://linkedin.com/in/hauk-aleksander-olaussen-9166b2169
 [spotify]: https://open.spotify.com/user/Olaussen99
+[aboveit]: https://aboveit.no/
