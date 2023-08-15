@@ -2,9 +2,8 @@
 
 ## I'm a Norwegian student, gamer, memer, garbage programmer and nature lover🌳🦌!
 
-- 💻 Working part time as a Fullstack Developer at [Aboveit AS][aboveit]!
-- 📚 Studying M.Sc in Informatics - Artificial Intelligence at [NTNU][ntnu]!
-- 🔭 Done with B.Sc. in Informatics from [NTNU][ntnu]!
+- 💻 Junior Developer at [Aboveit AS][aboveit]!
+- 📚 Done with M.Sc in Informatics - Artificial Intelligence at [NTNU][ntnu]!
 - 😎 Founder of the group [Angstboksen][angstboksen]!
 - ⚡ Fun facts: I can basically quote the whole LOTR trilogy :)
 
