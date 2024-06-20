@@ -1,9 +1,9 @@
 ### Sup 🅱s! Who am I?
 
-## I'm a Norwegian student, gamer, memer, garbage programmer and nature lover🌳🦌!
+## I'm a Norwegian gamer, memer, garbage programmer, and nature lover🌳🦌!
 
-- 💻 Junior Developer at [Aboveit AS][aboveit]!
-- 📚 Done with M.Sc in Informatics - Artificial Intelligence at [NTNU][ntnu]!
+- 💻 Tech Lead AI at [Aboveit AS][aboveit]!
+- 📚 Finished with a M.Sc in Informatics - Artificial Intelligence at [NTNU][ntnu]!
 - 😎 Founder of the group [Angstboksen][angstboksen]!
 - ⚡ Fun facts: I can basically quote the whole LOTR trilogy :)
 
