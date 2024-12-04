@@ -1,10 +1,3 @@
-### Sup 🅱s! Who am I?
-
-- 💻 Tech Lead AI at [Aboveit AS][aboveit]!
-- 📚 M.Sc in Informatics - Artificial Intelligence
-- 😎 Founder of the group [Angstboksen][angstboksen]!
-- ⚡ Fun fact: I can basically quote the whole LOTR trilogy :)
-
 ### Connect with me:
 
 [<img align="left" alt="Olaussen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
